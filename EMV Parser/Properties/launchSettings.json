@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "EMV Parser": {
+      "commandName": "Project",
+      "commandLineArgs": "/K",
+      "nativeDebugging": false
+    }
+  }
+}
